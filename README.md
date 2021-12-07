@@ -1,2 +1,2 @@
 # woozymc-site
-the site for the woozymc mc server
+the site for the woozymc mc, yes the code is a mess

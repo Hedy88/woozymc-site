@@ -1,0 +1,19 @@
+body {
+    background-image: url("../../cdn/img/dirt.png");
+    /* hey discord */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+   
+  /* cringe code */
+
+div.header {
+    font-size: 16px;
+    color: rgb(241, 218, 12);
+}
+
+#links:hover {
+    color: rgb(2, 176, 219);
+}
+

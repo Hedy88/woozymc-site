@@ -1,0 +1,19 @@
+{
+  "name": "woozymc-site",
+  "version": "1.0.0",
+  "description": "the site for the woozymc mc, yes the code is a mess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedy88/woozymc-site.git"
+  },
+  "author": "RGB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hedy88/woozymc-site/issues"
+  },
+  "homepage": "https://github.com/Hedy88/woozymc-site#readme"
+}
